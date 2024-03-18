@@ -1,0 +1,29 @@
+{
+  "name": "lunar-insight-flee",
+  "version": "1.0.0",
+  "description": "Lunar Insight is a Node.js module providing a collection of utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tioln0thlawo/lunar-insight-flee"
+  },
+  "dependencies": {
+    "moment": "^2.29.1",
+    "lunar-insight-flee": "1.0.0",
+    "celestial-rush-utils": "1.0.0",
+    "serenify-seem": "1.0.0",
+    "mandytrowbridge260-date-time": "1.1.4",
+    "tax-date-time": "1.0.0",
+    "cosmic-essence-wish": "1.0.0",
+    "put-datafeed": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tioln0thlawo/lunar-insight-flee/issues"
+  },
+  "homepage": "https://github.com/tioln0thlawo/lunar-insight-flee#readme"
+}
